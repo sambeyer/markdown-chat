@@ -1,1 +1,2 @@
-sqllite
+openai
+python-dotenv
